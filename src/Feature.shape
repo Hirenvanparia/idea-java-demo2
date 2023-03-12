@@ -1,0 +1,8 @@
+
+vanpa@Hiren MINGW64 /c/dev/idea-java-demo2 (feature1)
+$ git status
+On branch feature1
+nothing to commit, working tree clean
+
+vanpa@Hiren MINGW64 /c/dev/idea-java-demo2 (feature1)
+$ git fetch
